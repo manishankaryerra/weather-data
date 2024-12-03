@@ -1,0 +1,4 @@
+Location,Temperature,Feels Like,Humidity,Pressure,Wind Speed,Wind Direction,Weather Description
+London,7.67,7.67,76,1023,0.51,0,broken clouds
+New York,2.04,-2.7,69,1025,5.66,310,overcast clouds
+Tokyo,12.52,11.58,67,1012,2.06,250,few clouds
